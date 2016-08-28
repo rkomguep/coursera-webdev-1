@@ -13,12 +13,11 @@ h2 {
     border: 1px solid black;
     width: 100px;
     height: 30px;
-    position: absolute;
-    top: 0;
-    right: 0;
+    float: right;
 }
 
 p {
+    clear: both;
     padding: 10px;
     padding-top: 40px;
 }
