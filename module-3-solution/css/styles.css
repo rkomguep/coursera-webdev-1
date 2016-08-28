@@ -12,13 +12,9 @@
 /* End header */
 
 /* Main content */
-
-#main-content {
-    margin: 15px;
-}
-
-#main-content #content{
+#content{
     background-color: azure;
+    margin: 0 15px 0 15px;
 }
 
 /* End main content */
