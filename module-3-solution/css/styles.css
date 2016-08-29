@@ -12,9 +12,9 @@
 /* End header */
 
 /* Main content */
-#content{
+#chicken,#beef,#sushi{
     background-color: azure;
-    margin: 0 15px 0 15px;
+    margin: 5px;
 }
 
 /* End main content */
